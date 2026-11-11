@@ -1,4 +1,4 @@
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/ef31c5f8-72a2-4a02-b27c-e3c1019c111b" /><img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/56039a10-e458-41ef-a29d-a3df42c21b72" /># 词霸每日一句
+# 词霸每日一句
 
 ## 🚀 项目
 
